@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello there!👋
 
-<!--
-**Virose24/Virose24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3>A computer engineering student at Universidade de Trás-os-Montes e Alto-Douro!</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ I’m currently working on my portfolio, which is my first website!
+- 🌱 I’m currently learning Front-end developing!
+- 👯 I’m looking to collaborate on lots of projects, as I do believe teamwork is one of my many competences.
+- 🤔 I’m looking for help with orientation on full-stack development
+- 💬 Ask me about whatever u want, feel free to contact me!
+- 📫 How to reach me: joaomcc16@hotmail.com
+- As for now, I use: `.c`,`.html`,`.css`
+- Eager to learn more!
