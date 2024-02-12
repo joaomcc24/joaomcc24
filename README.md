@@ -8,5 +8,5 @@
 - 🤔 I’m looking for help with orientation on full-stack development
 - 💬 Ask me about whatever u want, feel free to contact me!
 - 📫 How to reach me: joaomcc16@hotmail.com
-- As for now, I use: `.c`,`.html`,`.css`
+- 💻 As for now, I use: `.c`,`.html`,`.css`
 - Eager to learn more!
